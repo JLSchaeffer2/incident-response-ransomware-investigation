@@ -174,6 +174,11 @@ This investigation is supported by:
 - Triage report (initial findings and impact assessment)
 - Detailed investigation notes (queries, analysis, and evidence)
 
+## Project Files
+
+- [IR Triage Report](./IR%20Triage%20Report%20%7BJerome%20Schaeffer%20II%7D.docx)
+- [Investigation Notes](./Investigation%20notes%20%7BJerome%20Schaeffer%20II%7D.docx)
+
 ---
 
 ## Notes
